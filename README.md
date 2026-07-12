@@ -25,7 +25,21 @@
   <img src="https://raw.githubusercontent.com/huzaifaabbasi630/huzaifaabbasi630/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-> ⚠️ Setup needed — see "Aaj ka kaam" below, ye automatic nahi hoga jab tak GitHub Action add nahi karoge
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifaabbasi630&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 🚧 Currently Working On
+
+- 🛒 **ATELIER** — Full-stack e-commerce platform (TypeScript)
+- 🏥 **AI Clinic System** — Role-based auth + real-time updates
+- 📱 Exploring React Native for mobile app development
 
 ---
 
