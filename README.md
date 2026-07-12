@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hafiz%20Muhammad%20Huzaifa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Hafiz-e-Quran%20%7C%2016%20yrs%20old&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hafiz%20Muhammad%20Huzaifa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20%20%7C%2016%20yrs%20old&descAlignY=55&descSize=18" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Hafiz-e-Quran+%2B+Coder+%F0%9F%94%A5;Building+real-world+web+apps;Currently+16+and+shipping+code+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);+%2B+Coder+%F0%9F%94%A5;Building+real-world+web+apps;Currently+16+and+shipping+code+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -238,7 +238,7 @@ timeline
 
 ---
 
-<p align="center"><i>16 years old. Hafiz-e-Quran. Full stack developer. Just getting started. 🚀</i></p>
+<p align="center"><i>16 years old. Full stack developer. Just getting started. 🚀</i></p>
 
 ### 💬 Ask Me About
 
