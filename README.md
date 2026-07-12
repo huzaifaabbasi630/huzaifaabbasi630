@@ -12,6 +12,14 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </p>
 
+### 🖥️ Quick Intro
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=%24+whoami;Hafiz+Muhammad+Huzaifa;%24+cat+role.txt;Full+Stack+Developer+%7C+16+y%2Fo;%24+cat+status.txt;Available+for+freelance+work+%E2%9C%85" alt="Terminal Typing SVG" />
+</p>
+
+---
+
 ### 💫 About Me:
 
 - 🕌 **Hafiz-e-Quran** (2020) — memorized the entire Quran before I ever wrote a line of code
@@ -104,6 +112,16 @@ timeline
 
 ---
 
+### ⭐ Star History
+
+<p align="center">
+  <a href="https://star-history.com/#huzaifaabbasi630/ATELIER&huzaifaabbasi630/AI-Clinic-System&Date">
+    <img src="https://api.star-history.com/svg?repos=huzaifaabbasi630/ATELIER,huzaifaabbasi630/AI-Clinic-System&type=Date" alt="Star History Chart" width="600"/>
+  </a>
+</p>
+
+---
+
 ### 📚 Currently Learning
 
 <p align="center">
@@ -111,6 +129,14 @@ timeline
   <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Native-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
+
+---
+
+### ⏱️ Weekly Coding Activity (WakaTime)
+
+<!--START_SECTION:waka-->
+<!-- Ye section GitHub Action se auto-fill hoga, neeche "Aaj ka kaam" mein setup steps hain -->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -193,9 +219,24 @@ timeline
 
 ---
 
+### 👥 Reach & Visitors
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/huzaifaabbasi630?label=Followers&style=for-the-badge&color=6366F1" />
+  <img src="https://img.shields.io/github/stars/huzaifaabbasi630?label=Total%20Stars&style=for-the-badge&color=22D3EE" />
+</p>
+
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=huzaifaabbasi630&icon=0&color=6" />
 </p>
+
+<p align="center">
+  <img src="https://clustrmaps.com/map_v2.png?d=YOUR_CLUSTRMAPS_ID&cl=ffffff" alt="visitor map" />
+</p>
+
+> 🗺️ Visitor map ke liye <a href="https://clustrmaps.com/">clustrmaps.com</a> pe free signup karo, apna GitHub README URL daalo, wo tumhe custom map link dega — usse upar wale `YOUR_CLUSTRMAPS_ID` ko replace karna
+
+---
 
 <p align="center"><i>16 years old. Hafiz-e-Quran. Full stack developer. Just getting started. 🚀</i></p>
 
