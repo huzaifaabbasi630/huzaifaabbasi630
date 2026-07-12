@@ -104,7 +104,7 @@ timeline
 ### 🌐 Connect With Me:
 
 <p align="center">
-  <a href="https://instagram.com/hafiz_muhammad_.huzaifa._" target="_blank">
+  <a href="https://instagram.com/hafiz_muhammad_huzaifa._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="mailto:huzaifaabbasi09123@gmail.com">
