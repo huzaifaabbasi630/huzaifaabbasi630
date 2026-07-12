@@ -8,6 +8,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</p>
+
 ### 💫 About Me:
 
 - 🕌 **Hafiz-e-Quran** (2020) — memorized the entire Quran before I ever wrote a line of code
@@ -17,12 +21,54 @@
 - 🌱 16 years old, self-taught, and still learning every single day
 - 📍 Based in Karachi, Pakistan
 
+> 💡 **Fun fact:** I memorized the entire Quran before I wrote my first `console.log()` — discipline transfers.
+
+---
+
+### 🗣️ Languages I Speak
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Urdu-Native-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-Fluent-22D3EE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arabic-Quranic-16A34A?style=for-the-badge" />
+</p>
+
+---
+
+### 🛣️ My Journey
+
+```mermaid
+timeline
+    title From Hafiz to Full Stack Developer
+    2020 : Completed Hafiz-e-Quran
+    2025 : Matriculation — 85%
+    2025 : Started Dars-e-Nizami (Islamic Scholar Course)
+    2026 : Completed Full Stack Web Dev — Saylani Mass IT Training
+    2026 : Building ATELIER & AI Clinic System
+```
+
+---
+
+### 🎓 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Saylani%20Mass%20IT%20Training-Full%20Stack%20Web%20Development-orange?style=for-the-badge&logo=googlescholar&logoColor=white" />
+</p>
+
 ---
 
 ### 🐍 My Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/huzaifaabbasi630/huzaifaabbasi630/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/huzaifaabbasi630/huzaifaabbasi630/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution graph" />
 </p>
 
 ---
@@ -40,6 +86,41 @@
 - 🛒 **ATELIER** — Full-stack e-commerce platform (TypeScript)
 - 🏥 **AI Clinic System** — Role-based auth + real-time updates
 - 📱 Exploring React Native for mobile app development
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/huzaifaabbasi630/ATELIER">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifaabbasi630&repo=ATELIER&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/huzaifaabbasi630/AI-Clinic-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifaabbasi630&repo=AI-Clinic-System&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+> ⚙️ Repo names case-sensitive honi chahiye — apne actual GitHub repo names ke sath match karo
+
+---
+
+### 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-Learning-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+---
+
+### 🪐 View My GitHub in 3D
+
+<p align="center">
+  <a href="https://skyline.github.com/huzaifaabbasi630/2026" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Skyline-View%20in%203D-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -104,8 +185,24 @@
 
 ---
 
+### 😄 Joke of the Day
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="jokes" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=huzaifaabbasi630&icon=0&color=6" />
 </p>
 
 <p align="center"><i>16 years old. Hafiz-e-Quran. Full stack developer. Just getting started. 🚀</i></p>
+
+### 💬 Ask Me About
+
+`React & Next.js` `Node/Express APIs` `MongoDB` `Freelancing as a beginner` `Balancing Deen + Dunya`
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" width="100%"/>
