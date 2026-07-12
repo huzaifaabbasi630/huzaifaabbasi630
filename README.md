@@ -30,7 +30,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Urdu-Native-6366F1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/English-Fluent-22D3EE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arabic-Quranic-16A34A?style=for-the-badge" />
 </p>
 
 ---
@@ -40,9 +39,10 @@
 ```mermaid
 timeline
     title From Hafiz to Full Stack Developer
-    2020 : Completed Hafiz-e-Quran
+    2020 : Completed Hifz-ul-Quran
     2025 : Matriculation — 85%
     2025 : Started Dars-e-Nizami (Islamic Scholar Course)
+    2025 : Enrolled In Intermediate 
     2026 : Completed Full Stack Web Dev — Saylani Mass IT Training
     2026 : Building ATELIER & AI Clinic System
 ```
