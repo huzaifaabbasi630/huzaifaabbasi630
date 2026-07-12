@@ -4,18 +4,6 @@
 
 
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- Aapki GitHub DP (Left Side) -->
-    <td valign="center" align="center" style="padding-right: 15px;">
-      <img src="https://github.com/huzaifaabbasi630.png" width="150" style="border-radius: 50%; border: 3px solid #22D3EE;" alt="Hafiz Muhammad Huzaifa" />
-    </td>
-    <!-- Aapka Waving Banner (Right Side) -->
-    <td valign="center">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hafiz%20Muhammad%20Huzaifa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Hafiz-e-Quran%20%7C%2016%20yrs%20old&descAlignY=55&descSize=18" />
-    </td>
-  </tr>
-</table>
 
 
 <p align="center">
