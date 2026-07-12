@@ -13,6 +13,20 @@
 
 
 
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hafiz%20Muhammad%20Huzaifa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20%20%7C%2016%20yrs%20old&descAlignY=55&descSize=18" />
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);%2BCoder+%F0%9F%94%A5;Building+real-world+web+apps;Currently+16+and+shipping+code+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</p>
+
 ### 💫 About Me:
 
 - 🕌 **Hafiz-e-Quran** (2020) — memorized the entire Quran before I ever wrote a line of code
