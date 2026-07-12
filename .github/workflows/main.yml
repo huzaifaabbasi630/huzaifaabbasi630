@@ -22,7 +22,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
       - name: generate-3d-graph
-        uses: yoshi382/github-profile-3d-contrib@0.7.1
+        uses: yoshi382/github-profile-3d-contrib@0.7.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
