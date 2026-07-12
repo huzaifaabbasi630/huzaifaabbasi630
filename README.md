@@ -12,13 +12,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </p>
 
-### 🖥️ Quick Intro
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=%24+whoami;Hafiz+Muhammad+Huzaifa;%24+cat+role.txt;Full+Stack+Developer+%7C+16+y%2Fo;%24+cat+status.txt;Available+for+freelance+work+%E2%9C%85" alt="Terminal Typing SVG" />
-</p>
-
----
 
 ### 💫 About Me:
 
@@ -73,13 +67,7 @@ timeline
 
 ---
 
-### 🧊 3D Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/huzaifaabbasi630/huzaifaabbasi630/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution graph" />
-</p>
-
----
 
 ### 📈 Activity Graph
 
