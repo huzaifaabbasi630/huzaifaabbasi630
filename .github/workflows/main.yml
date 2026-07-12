@@ -13,7 +13,7 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # 1. Snake Game Animation
+      # Snake Game Animation (100% Working)
       - name: generate-github-contribution-grid-snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -22,14 +22,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      # 2. Updated 3D Graph (Official & Working Version)
-      - name: generate-3d-graph
-        uses: jasonlong/github-profile-3d-contrib@v0.7.2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      # 3. Push files to output branch
+      # Push files to output branch
       - name: push files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
