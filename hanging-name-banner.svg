@@ -1,0 +1,57 @@
+<svg width="700" height="230" viewBox="0 0 700 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="plateGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="ropeGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#8B7355"/>
+      <stop offset="100%" stop-color="#5C4A38"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Top beam -->
+  <rect x="150" y="0" width="400" height="10" rx="3" fill="#3f3f46"/>
+  <circle cx="180" cy="5" r="4" fill="#27272a"/>
+  <circle cx="520" cy="5" r="4" fill="#27272a"/>
+
+  <!-- Swinging group: ropes + plate + text -->
+  <g>
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      values="-3 350 10; 3 350 10; -3 350 10"
+      dur="4s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"
+    />
+
+    <!-- Ropes -->
+    <line x1="180" y1="8" x2="260" y2="70" stroke="url(#ropeGradient)" stroke-width="4" stroke-linecap="round"/>
+    <line x1="520" y1="8" x2="440" y2="70" stroke="url(#ropeGradient)" stroke-width="4" stroke-linecap="round"/>
+
+    <!-- Small hook circles -->
+    <circle cx="260" cy="72" r="5" fill="#5C4A38"/>
+    <circle cx="440" cy="72" r="5" fill="#5C4A38"/>
+
+    <!-- Sign plate -->
+    <rect x="130" y="70" width="440" height="140" rx="18" fill="url(#plateGradient)" stroke="#ffffff" stroke-width="2" stroke-opacity="0.3"/>
+
+    <!-- Subtle nail/bolt details -->
+    <circle cx="155" cy="95" r="3" fill="#ffffff" fill-opacity="0.6"/>
+    <circle cx="545" cy="95" r="3" fill="#ffffff" fill-opacity="0.6"/>
+    <circle cx="155" cy="185" r="3" fill="#ffffff" fill-opacity="0.6"/>
+    <circle cx="545" cy="185" r="3" fill="#ffffff" fill-opacity="0.6"/>
+
+    <!-- Name text -->
+    <text x="350" y="130" text-anchor="middle" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="30" font-weight="700" fill="#ffffff">
+      Hafiz Muhammad Huzaifa
+    </text>
+
+    <!-- Subtitle text -->
+    <text x="350" y="165" text-anchor="middle" font-family="'Fira Code', monospace" font-size="16" fill="#e0e7ff">
+      Full Stack Developer | Hafiz-e-Quran | 16 yrs old
+    </text>
+  </g>
+</svg>
