@@ -42,7 +42,7 @@ timeline
     2020 : Completed Hifz-ul-Quran
     2025 : Matriculation — 85%
     2025 : Started Dars-e-Nizami (Islamic Scholar Course)
-    2025 : Enrolled In Intermediate 
+    2025 : Enrolled In Intermediate : complete part 01
     2026 : Completed Full Stack Web Dev — Saylani Mass IT Training
     2026 : Building ATELIER & AI Clinic System
 ```
