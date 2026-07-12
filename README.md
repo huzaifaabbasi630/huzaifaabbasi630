@@ -85,28 +85,8 @@ timeline
 
 ---
 
-### 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/huzaifaabbasi630/Atelier-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifaabbasi630&repo=Atelier-frontend&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/huzaifaabbasi630/clinic-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifaabbasi630&repo=clinic-frontend&theme=radical&hide_border=true" />
-  </a>
-</p>
 
----
-
-### ⭐ Star History
-
-<p align="center">
-  <a href="https://star-history.com/#huzaifaabbasi630/Atelier-frontend&huzaifaabbasi630/clinic-frontend&Date">
-    <img src="https://api.star-history.com/svg?repos=huzaifaabbasi630/Atelier-frontend,huzaifaabbasi630/clinic-frontend&type=Date" alt="Star History Chart" width="600"/>
-  </a>
-</p>
-
----
 
 ### 📚 Currently Learning
 
@@ -118,23 +98,8 @@ timeline
 
 ---
 
-### ⏱️ Weekly Coding Activity (WakaTime)
 
-<!--START_SECTION:waka-->
-<!-- Ye section GitHub Action se auto-fill hoga, neeche "Aaj ka kaam" mein setup steps hain -->
-<!--END_SECTION:waka-->
 
----
-
-### 🪐 View My GitHub in 3D
-
-<p align="center">
-  <a href="https://skyline.github.com/huzaifaabbasi630/2026" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Skyline-View%20in%203D-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
 
 ### 🌐 Connect With Me:
 
@@ -197,24 +162,7 @@ timeline
 
 ---
 
-### 👥 Reach & Visitors
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/huzaifaabbasi630?label=Followers&style=for-the-badge&color=6366F1" />
-  <img src="https://img.shields.io/github/stars/huzaifaabbasi630?label=Total%20Stars&style=for-the-badge&color=22D3EE" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=huzaifaabbasi630&icon=0&color=6" />
-</p>
-
-<p align="center">
-  <img src="https://clustrmaps.com/map_v2.png?d=YOUR_CLUSTRMAPS_ID&cl=ffffff" alt="visitor map" />
-</p>
-
-> 🗺️ Visitor map ke liye <a href="https://clustrmaps.com/">clustrmaps.com</a> pe free signup karo, apna GitHub README URL daalo, wo tumhe custom map link dega — usse upar wale `YOUR_CLUSTRMAPS_ID` ko replace karna
-
----
 
 <p align="center"><i>16 years old. Full stack developer. Just getting started. 🚀</i></p>
 
