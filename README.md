@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/huzaifaabbasi630/huzaifaabbasi630/main/hanging-name-banner.svg" width="700" alt="hanging sign" />
+</p>
+
+
+
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <!-- Aapki GitHub DP (Left Side) -->
