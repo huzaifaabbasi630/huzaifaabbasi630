@@ -6,7 +6,7 @@
     </td>
     <!-- Aapka Waving Banner (Right Side) -->
     <td valign="center">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hafiz%20Muhammad%20Huzaifa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Hafiz-e-Quran%20%7C%2016%20yrs%20old&descAlignY=55&descSize=18" />
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hafiz%20Muhammad%20Huzaifa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20%20%7C%2016%20yrs%20old&descAlignY=55&descSize=18" />
     </td>
   </tr>
 </table>
